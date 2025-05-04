@@ -1,5 +1,3 @@
-Here is a complete `README.md` file for the [**Student Grievances**](https://github.com/devjyotiprajapati/student-grievances) repository:
-
 ---
 
 # Student Grievances Management System
