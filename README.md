@@ -1,5 +1,3 @@
----
-
 # Student Grievances Management System
 
 A web-based grievance redressal platform built with **ASP.NET Web Forms** and **C#**. This application enables students to register complaints and track their resolution status, while administrators can view, manage, and resolve these grievances efficiently.
