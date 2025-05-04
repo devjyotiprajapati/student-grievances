@@ -72,5 +72,3 @@ student-grievances/
 4. **Run the Application**
 
    * Press `F5` in Visual Studio or run through IIS Express.
-
----
